@@ -11,8 +11,7 @@
     box-shadow: 0 0 10px rgb(3, 3, 3);
 }
 
-.header--logo a{
-    text-decoration: none;
+.header--logo p{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-family: Ballet;
     font-weight: bold;
